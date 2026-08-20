@@ -1,0 +1,6 @@
+{
+  "name": "Jungle vs. Steel",
+  "description": "A 2-player asymmetrical Vietnam War strategy card game pitting US mechanized firepower against NLF guerrilla stealth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
